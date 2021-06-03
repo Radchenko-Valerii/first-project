@@ -11,3 +11,6 @@ ln -s ./../../../bin/pwd linkPwd
 mkdir important
 touch 1 2 12 123 txt
 mv ??? ./important  
+5. 
+env | grep LC >> text.txt
+
