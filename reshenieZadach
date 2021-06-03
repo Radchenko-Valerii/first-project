@@ -7,3 +7,7 @@ rm *Test*
 3.
 ln -s ./../../../bin/pwd linkPwd
 ./linkPwd
+4. 
+mkdir important
+touch 1 2 12 123 txt
+mv ??? ./important  
