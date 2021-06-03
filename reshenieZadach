@@ -1,1 +1,6 @@
-1. mkdir linuxTask
+1. 
+mkdir linuxTask
+2(v pervoi versii). 
+cd linuxTask/ 
+touch test test fileForTest testo Test-Testovich.bio
+rm *Test*
