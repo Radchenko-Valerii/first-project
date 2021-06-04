@@ -15,3 +15,6 @@ mv ??? ./important
 env | grep LC >> text.txt
 6. 
 sudo find ./../../../../../ -name "code" | grep code >> text.txt
+7.
+cat 'mpv udp://224.0.0.1:9999'  startStream 
+chmod a=x startStream 
