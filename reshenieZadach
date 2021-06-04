@@ -13,4 +13,5 @@ touch 1 2 12 123 txt
 mv ??? ./important  
 5. 
 env | grep LC >> text.txt
-
+6. 
+sudo find ./../../../../../ -name "code" | grep code >> text.txt
